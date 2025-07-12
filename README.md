@@ -39,5 +39,6 @@ How It Works:
 2. Calculates similarity between users based on their ratings.
 3. Identifies nearest neighbors (similar users).
 
+OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/156166eb-df2c-4d8a-8a62-24511ceda939)
